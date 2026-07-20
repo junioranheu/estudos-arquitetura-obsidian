@@ -1,0 +1,13 @@
+# Estado da interface
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Cache
+.obsidian/cache/
+
+# Dados locais de plugins
+.obsidian/plugins/*/data.json
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db

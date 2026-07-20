@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "2294b78848452094",
+    "type": "split",
+    "children": [
+      {
+        "id": "76fd92997f65f068",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35c8ce8927c17ef1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Fundamentos de Programação/03 - SOLID/SOLID.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SOLID"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b78e0b1f479338b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4933363264727201",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ad68d7835f5f0ef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "3974d993175e7a06",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "a56377b2fa7ec845",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "562dd711a42365b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdd6bf9a4b69f9cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0792296d3392a56",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "a39a72c3da50f7ad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "62d7fb64c16c9976",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "0aaf5ee6c7433d7e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "8fc0dfb5e489c14a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "35c8ce8927c17ef1",
+  "lastOpenFiles": [
+    "01 - Fundamentos de Programação/03 - SOLID/DIP - Princípio da Inversão de Dependência.md",
+    "01 - Fundamentos de Programação/02 - Programação Orientada a Objetos/Coesão.md",
+    "01 - Fundamentos de Programação/02 - Programação Orientada a Objetos/Abstração.md",
+    "07 - Cloud, DevOps e Confiabilidade/01 - Entrega e infraestrutura/CI e CD.md",
+    "05 - EDA, Mensageria e Processamento Assíncrono/02 - RabbitMQ/Exchange.md",
+    "05 - EDA, Mensageria e Processamento Assíncrono/01 - Fundamentos/Background Jobs.md",
+    "04 - Domain-Driven Design/01 - Fundamentos/Domínio rico vs CRUD.md",
+    "04 - Domain-Driven Design/01 - Fundamentos/Conhecimento do domínio.md",
+    "01 - Fundamentos de Programação/01 - Lógica e algoritmos/Concorrência.md",
+    "01 - Fundamentos de Programação/02 - Programação Orientada a Objetos/Agregação.md",
+    "10 - Entrevistas e Revisão/01 - Perguntas conceituais/Explique Vertical Slice.md",
+    "10 - Entrevistas e Revisão/01 - Perguntas conceituais/Explique Transactional Outbox.md",
+    "10 - Entrevistas e Revisão/01 - Perguntas conceituais/Explique SOLID.md",
+    "10 - Entrevistas e Revisão/01 - Perguntas conceituais/Explique Saga.md",
+    "10 - Entrevistas e Revisão/01 - Perguntas conceituais/Explique replicação e particionamento.md",
+    "10 - Entrevistas e Revisão/01 - Perguntas conceituais/Explique POO.md",
+    "10 - Entrevistas e Revisão/01 - Perguntas conceituais/Explique idempotência.md",
+    "10 - Entrevistas e Revisão/01 - Perguntas conceituais/Explique microsserviços.md",
+    "10 - Entrevistas e Revisão/01 - Perguntas conceituais/Explique Event-Driven Architecture.md",
+    "10 - Entrevistas e Revisão/01 - Perguntas conceituais/Explique DDD.md",
+    "10 - Entrevistas e Revisão/01 - Perguntas conceituais/Explique CQRS.md",
+    "10 - Entrevistas e Revisão/01 - Perguntas conceituais/Explique Clean Architecture.md",
+    "10 - Entrevistas e Revisão/01 - Perguntas conceituais",
+    "10 - Entrevistas e Revisão",
+    "09 - Segurança de Software/01 - Fundamentos/Autorização.md",
+    "09 - Segurança de Software/01 - Fundamentos/Autenticação.md",
+    "09 - Segurança de Software/01 - Fundamentos",
+    "09 - Segurança de Software",
+    "08 - System Design/02 - Building Blocks/Reverse Proxy.md",
+    "08 - System Design/02 - Building Blocks/Object Storage.md",
+    "08 - System Design/02 - Building Blocks",
+    "08 - System Design/01 - Processo",
+    "08 - System Design",
+    "07 - Cloud, DevOps e Confiabilidade/02 - Observabilidade",
+    "07 - Cloud, DevOps e Confiabilidade/01 - Entrega e infraestrutura",
+    "07 - Cloud, DevOps e Confiabilidade"
+  ]
+}
