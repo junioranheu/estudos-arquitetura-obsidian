@@ -19,7 +19,3 @@ Aqui documento meus estudos, anotações, resumos, diagramas e referências sobr
 ## Objetivo
 
 Centralizar meu aprendizado em um único lugar, registrando conhecimentos adquiridos ao longo da carreira para consulta, revisão e evolução contínua.
-
----
-
-Desenvolvido utilizando **Obsidian** e versionado com **Git**."# estudos-arquitetura-obsidian" 
